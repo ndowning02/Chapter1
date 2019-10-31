@@ -1,0 +1,6 @@
+C:\Users\nd145438\Desktop\C# Projects\Chapter1\WineGlass\WineGlass\bin\Debug\WineGlass.exe.config
+C:\Users\nd145438\Desktop\C# Projects\Chapter1\WineGlass\WineGlass\bin\Debug\WineGlass.exe
+C:\Users\nd145438\Desktop\C# Projects\Chapter1\WineGlass\WineGlass\bin\Debug\WineGlass.pdb
+C:\Users\nd145438\Desktop\C# Projects\Chapter1\WineGlass\WineGlass\obj\Debug\WineGlass.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\C# Projects\Chapter1\WineGlass\WineGlass\obj\Debug\WineGlass.exe
+C:\Users\nd145438\Desktop\C# Projects\Chapter1\WineGlass\WineGlass\obj\Debug\WineGlass.pdb

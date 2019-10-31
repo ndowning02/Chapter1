@@ -1,0 +1,6 @@
+C:\Users\nd145438\Desktop\C# Projects\Chapter1\Lyrics\Lyrics\bin\Debug\Lyrics.exe.config
+C:\Users\nd145438\Desktop\C# Projects\Chapter1\Lyrics\Lyrics\bin\Debug\Lyrics.exe
+C:\Users\nd145438\Desktop\C# Projects\Chapter1\Lyrics\Lyrics\bin\Debug\Lyrics.pdb
+C:\Users\nd145438\Desktop\C# Projects\Chapter1\Lyrics\Lyrics\obj\Debug\Lyrics.csproj.CoreCompileInputs.cache
+C:\Users\nd145438\Desktop\C# Projects\Chapter1\Lyrics\Lyrics\obj\Debug\Lyrics.exe
+C:\Users\nd145438\Desktop\C# Projects\Chapter1\Lyrics\Lyrics\obj\Debug\Lyrics.pdb
